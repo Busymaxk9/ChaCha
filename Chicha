@@ -1,0 +1,9 @@
+pkg update
+pkg upgrade
+pkg install git
+pkg install python3
+git clone https://github.com/Busymaxk9/ChaCha
+cd ChaCha
+ls 
+python3 ChaCha.py
+
